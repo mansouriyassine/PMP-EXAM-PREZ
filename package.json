@@ -1,0 +1,16 @@
+{
+    "name": "pmp-exam-prep-client",
+    "version": "1.0.0",
+    "description": "Client side of PMP Exam Prep Quiz",
+    "main": "index.js",
+    "scripts": {
+      "start": "parcel public/index.html",
+      "build": "parcel build public/index.html"
+    },
+    "dependencies": {
+      "parcel-bundler": "^1.12.5"
+    },
+    "devDependencies": {},
+    "author": "Yassine Mansouri",
+    "license": "MIT"
+  }  

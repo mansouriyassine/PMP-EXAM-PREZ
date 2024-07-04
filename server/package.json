@@ -1,0 +1,21 @@
+{
+    "name": "pmp-exam-prep-server",
+    "version": "1.0.0",
+    "description": "Server side of PMP Exam Prep Quiz",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "dev": "nodemon index.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "body-parser": "^1.19.0",
+      "mongoose": "^5.12.7",
+      "dotenv": "^8.2.0"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.7"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+  }  
