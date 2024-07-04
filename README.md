@@ -13,7 +13,7 @@ Option to restart the quiz and try again
 # Installation
 
 Clone the repository:
-git clone https://github.com/mansouriyassine/PMP-Exam-Prep.git
+git clone https://github.com/mansouriyassine/PMP-EXAM-PREZ.git
 
 Navigate to the project directory:
 cd PMP-Exam-Prep
